@@ -1,0 +1,4 @@
+Chimichongas	Mexican	24
+Cafe Masala	Indian	30
+Chima number 1	Chimese	50
+Hummus Jungle	meditteranean	5
